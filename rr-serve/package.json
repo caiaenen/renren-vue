@@ -1,0 +1,32 @@
+{
+  "name": "renren",
+  "version": "1.0.0",
+  "description": "for renren ",
+  "main": "app.js",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express-session": "^1.15.6",
+    "mysql": "^2.16.0",
+    "webpack": "^4.28.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/caiaenen/tedu-study.git"
+  },
+  "keywords": [
+    "node",
+    "vue",
+    "bootstrap"
+  ],
+  "author": "penny",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/caiaenen/tedu-study/issues"
+  },
+  "homepage": "https://github.com/caiaenen/tedu-study#readme"
+}
